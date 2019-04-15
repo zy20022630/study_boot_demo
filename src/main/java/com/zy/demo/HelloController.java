@@ -8,6 +8,6 @@ public class HelloController {
 
     @RequestMapping("/springboot")
     public String hello(){
-        return "Hello SpringBoot! v1.5";
+        return "Hello SpringBoot! v1.6";
     }
 }
